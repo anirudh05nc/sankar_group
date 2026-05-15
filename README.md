@@ -1,6 +1,7 @@
 # Task Management App
 
 **GitHub Repository:** [anirudh05nc/sankar_group](https://github.com/anirudh05nc/sankar_group)
+**Figma Design:** [ANC PERSONAL](https://www.figma.com/design/NlA1d0CtWkP688PkG9BYzR/ANC-PERSONAL-?node-id=3-3&t=hJNOKly0mxREpgHw-1)
 
 A robust Task Management Flutter application integrated with Firebase, Riverpod for state management, and a dynamic quotes API.
 
